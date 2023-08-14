@@ -27,15 +27,11 @@ One thing to note is that in this configuration, the InfluxDB token is being sto
 For more information, see <a href="https://julianmcconnell.com/posts/Automatic_Telegraf_Config_Refreshes/" target="_blank">here</a>.
 
 
-## Development
+### Development
 There is a development branch available if you're feeling adventurous.
 
 If you see something I have missed, something I should do differently, something I could do better, or maybe there is something you think could be added, please let me know.
 
 
-## License
-This software is being released under the GNU LESSER GENERAL PUBLIC LICENSE. Please see the license document in the repository for more information.
-
-
-## Disclaimer
+### Disclaimer
 These scripts are probably unstable and full of bugs. Like everything else on the internet, run at your own risk.
